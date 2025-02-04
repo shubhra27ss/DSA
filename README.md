@@ -13,6 +13,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shubhra27ss/DSA/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/shubhra27ss/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/shubhra27ss/DSA/tree/master/0792-binary-search) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/shubhra27ss/DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
