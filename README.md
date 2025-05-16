@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shubhra27ss/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/shubhra27ss/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shubhra27ss/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubhra27ss/DSA/tree/master/0035-search-insert-position) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shubhra27ss/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/shubhra27ss/DSA/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhra27ss/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
@@ -48,4 +50,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shubhra27ss/DSA/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/shubhra27ss/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
