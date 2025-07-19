@@ -12,6 +12,7 @@ A collection of LeetCode questions
 | [0035-search-insert-position](https://github.com/shubhra27ss/DSA/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhra27ss/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0792-binary-search](https://github.com/shubhra27ss/DSA/tree/master/0792-binary-search) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubhra27ss/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
