@@ -14,6 +14,7 @@ A collection of LeetCode questions
 | [0189-rotate-array](https://github.com/shubhra27ss/DSA/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/shubhra27ss/DSA/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubhra27ss/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shubhra27ss/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions
 | [0031-next-permutation](https://github.com/shubhra27ss/DSA/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhra27ss/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shubhra27ss/DSA/tree/master/0189-rotate-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shubhra27ss/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shubhra27ss/DSA/tree/master/0015-3sum) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shubhra27ss/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
