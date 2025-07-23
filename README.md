@@ -27,6 +27,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shubhra27ss/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/shubhra27ss/DSA/tree/master/0205-isomorphic-strings) |
 ## Union Find
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shubhra27ss/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhra27ss/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/shubhra27ss/DSA/tree/master/0205-isomorphic-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/shubhra27ss/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
