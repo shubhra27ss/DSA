@@ -26,6 +26,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shubhra27ss/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhra27ss/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/shubhra27ss/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shubhra27ss/DSA/tree/master/0242-valid-anagram) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shubhra27ss/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shubhra27ss/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhra27ss/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shubhra27ss/DSA/tree/master/0205-isomorphic-strings) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shubhra27ss/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shubhra27ss/DSA/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/shubhra27ss/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
