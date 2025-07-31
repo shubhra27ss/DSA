@@ -97,4 +97,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhra27ss/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
