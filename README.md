@@ -109,6 +109,7 @@ A collection of LeetCode questions
 | [0142-linked-list-cycle-ii](https://github.com/shubhra27ss/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
