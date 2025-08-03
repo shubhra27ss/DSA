@@ -101,6 +101,7 @@ A collection of LeetCode questions
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shubhra27ss/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhra27ss/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -115,4 +116,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shubhra27ss/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shubhra27ss/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
