@@ -103,6 +103,7 @@ A collection of LeetCode questions
 | ------- |
 | [0155-min-stack](https://github.com/shubhra27ss/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shubhra27ss/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/shubhra27ss/DSA/tree/master/0937-online-stock-span) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhra27ss/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -122,8 +123,17 @@ A collection of LeetCode questions
 | ------- |
 | [0155-min-stack](https://github.com/shubhra27ss/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shubhra27ss/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/shubhra27ss/DSA/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shubhra27ss/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/shubhra27ss/DSA/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/shubhra27ss/DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
