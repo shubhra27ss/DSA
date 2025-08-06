@@ -24,6 +24,7 @@ A collection of LeetCode questions
 | [0142-linked-list-cycle-ii](https://github.com/shubhra27ss/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhra27ss/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shubhra27ss/DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shubhra27ss/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions
 | ------- |
 | [0155-min-stack](https://github.com/shubhra27ss/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shubhra27ss/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/shubhra27ss/DSA/tree/master/0937-online-stock-span) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhra27ss/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
@@ -111,6 +113,7 @@ A collection of LeetCode questions
 | [0141-linked-list-cycle](https://github.com/shubhra27ss/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shubhra27ss/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shubhra27ss/DSA/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
